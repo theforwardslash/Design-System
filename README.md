@@ -9,10 +9,10 @@ These are the components & elements (or can elaborate on atomic system) that can
 #### Typography (Example)
 Good typography is invisible, enabling users to have a seamless experience while they're using the products.
 
-- [ ] first
-- [ ] second
-- [ ] third
-- [ ] fourth
+- [x] recommended
+- [x] recommended
+- [ ] not really important
+- [ ] not really important
 
 #### Iconography (Example)
 #### Illustration (Example)
